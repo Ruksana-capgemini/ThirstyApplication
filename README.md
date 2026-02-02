@@ -1,2 +1,2 @@
 # ThirstyApplication
-It is a salesforce developed application to help customers and support,manage their issue and resolve them. for ur information.
+It is a salesforce developed application to help customers and support,manage their issue and resolve them. <br>for ur information.
